@@ -1,5 +1,5 @@
 name: Jekyll Pdf test
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-pdf
